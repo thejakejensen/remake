@@ -10,3 +10,13 @@ body{
   display: inline-block;
   background-color: purple;
 }
+.features{
+  text-align: center;
+}
+.card{
+  color: black;
+}
+
+.why-we-are{
+  text-align: left;
+}
