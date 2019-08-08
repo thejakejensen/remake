@@ -1,7 +1,12 @@
+body{
+  background-color: black;
+  color: white;
+}
 .navbar{
   align-content: right;
 }
 
 .header{
   display: inline-block;
+  background-color: purple;
 }
